@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Enemy1_Stun
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -20,17 +20,13 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -4101914071294637052, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e,
-        type: 3}
+      value: {fileID: -1406296320, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
     - time: 0.125
-      value: {fileID: -3586365684883712197, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e,
-        type: 3}
+      value: {fileID: -1303457805, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
     - time: 0.25
-      value: {fileID: -2329128265633731262, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e,
-        type: 3}
+      value: {fileID: 2111397616, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
     - time: 0.375
-      value: {fileID: 8891641094821899385, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e,
-        type: 3}
+      value: {fileID: 823837191, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -49,11 +45,12 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: -4101914071294637052, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e, type: 3}
-    - {fileID: -3586365684883712197, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e, type: 3}
-    - {fileID: -2329128265633731262, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e, type: 3}
-    - {fileID: 8891641094821899385, guid: 0ad1f08efda3e7b499d143cc4a1a6f2e, type: 3}
+    - {fileID: -1406296320, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
+    - {fileID: -1303457805, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
+    - {fileID: 2111397616, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
+    - {fileID: 823837191, guid: b813a2df233697b4e916483bf0f21c9e, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

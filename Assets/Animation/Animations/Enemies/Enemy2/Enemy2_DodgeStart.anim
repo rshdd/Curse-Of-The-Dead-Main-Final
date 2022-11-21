@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Enemy2_DodgeStart
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -20,8 +20,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -1229239229188488085, guid: ddf50f95aab6a44479230421f97f0242,
-        type: 3}
+      value: {fileID: 963565210, guid: 274ab4d82f5de734db96ae2d0193aeeb, type: 3}
     - time: 0.13333334
       value: {fileID: -1229239229188488085, guid: ddf50f95aab6a44479230421f97f0242,
         type: 3}
@@ -43,8 +42,9 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: -1229239229188488085, guid: ddf50f95aab6a44479230421f97f0242, type: 3}
+    - {fileID: 963565210, guid: 274ab4d82f5de734db96ae2d0193aeeb, type: 3}
     - {fileID: -1229239229188488085, guid: ddf50f95aab6a44479230421f97f0242, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2

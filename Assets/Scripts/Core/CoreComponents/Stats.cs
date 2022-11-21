@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Stats : CoreComponent
 {
@@ -28,6 +29,7 @@ public class Stats : CoreComponent
             OnHealthZero?.Invoke();
             
             Debug.Log("Health is zero!!");
+            SceneManager.LoadScene(SceneManager.GetSceneAt(0).buildIndex);
         }
     }
 

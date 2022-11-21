@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LedgeGrab
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -20,11 +20,9 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -3628720756820899698, guid: a2b813fdc1de4474796e2808b544f8f9,
-        type: 3}
+      value: {fileID: -1211429584, guid: f9bb6cb196b8c8846a0d51e43ae1bc31, type: 3}
     - time: 0.1
-      value: {fileID: -1161963453228865433, guid: a2b813fdc1de4474796e2808b544f8f9,
-        type: 3}
+      value: {fileID: -1211429584, guid: f9bb6cb196b8c8846a0d51e43ae1bc31, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -43,9 +41,10 @@ AnimationClip:
       typeID: 212
       customType: 23
       isPPtrCurve: 1
+      isIntCurve: 0
     pptrCurveMapping:
-    - {fileID: -3628720756820899698, guid: a2b813fdc1de4474796e2808b544f8f9, type: 3}
-    - {fileID: -1161963453228865433, guid: a2b813fdc1de4474796e2808b544f8f9, type: 3}
+    - {fileID: -1211429584, guid: f9bb6cb196b8c8846a0d51e43ae1bc31, type: 3}
+    - {fileID: -1211429584, guid: f9bb6cb196b8c8846a0d51e43ae1bc31, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
