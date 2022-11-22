@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Death : CoreComponent
 {
@@ -19,7 +20,7 @@ public class Death : CoreComponent
         {
             ParticleManager.StartParticles(particle);
         }
-        
+
         core.transform.parent.gameObject.SetActive(false);
     }
 

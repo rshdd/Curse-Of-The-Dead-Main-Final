@@ -29,7 +29,6 @@ public class Stats : CoreComponent
             OnHealthZero?.Invoke();
             
             Debug.Log("Health is zero!!");
-            SceneManager.LoadScene(SceneManager.GetSceneAt(0).buildIndex);
         }
     }
 
